@@ -3,6 +3,9 @@ I used this on the german Amazon job site to apply to a german job. Should proba
 
 Anyways, wrote this because I thought it will give me an edge with my application as a Security Engineer for Robot Detection.
 
+<p align="center">
+  <img src="discordbotshot.png" alt="Discordbot example" width="400"/>
+</p>
 
 ## Setup
 ```
