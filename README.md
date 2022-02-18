@@ -1,6 +1,9 @@
 # Amazon Job Apply
 I used this on the german Amazon job site to apply to a german job. Should probably work internationally with a few tweaks. Use it at your own risk, I am not gonna be responsible if you get blocked or don't get a job because of this.
 
+**IMPORTANT! I do assume you have an Amazon job account as well as an Amazon account and have already filled out and uploaded your resume.**
+This script is kind of cool, but I didnt write it for the masses. I do think the `wait_until` function is kind of neat for anything Selenium.
+
 Anyways, wrote this because I thought it will give me an edge with my application as a Security Engineer for Robot Detection.
 
 <p align="center">
